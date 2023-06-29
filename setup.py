@@ -34,6 +34,7 @@ setup(
     install_requires=[
         "click==8.1.3",
         "h5py",
+        "jupyter-client==8.2.0",
         "microdf_python",
         "pandas",
         "pathlib",

@@ -1,0 +1,4 @@
+- bump: minor
+  changes:
+    changed:
+    - Added jupyter-client as explict dependency fixed to downgraded version of 8.2.0
